@@ -1,1 +1,2 @@
 this is index.txt in this we will lwarndjango and git.
+And I am changing this for practice.
